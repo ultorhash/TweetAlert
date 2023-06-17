@@ -1,0 +1,3 @@
+SYMBOL --|--------- NAME ---------|-- LIFESPAN --|-- INTERVAL --|-- KEYWORDS
+
+APT      | Aptos_Network          | 16hrs        | 45sec        | *
