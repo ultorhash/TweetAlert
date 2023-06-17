@@ -1,7 +1,7 @@
 # Tweet Alert
 
 ## Description 
-A script that listens to a tweeting account to notify the user of their latest tweets. The main purpose of its creation was to monitor accounts associated with Web3 technologies. It's dedicated for Windows users due to use of winotify library as notify popups.
+A script that listens to a twitter account for notify user of their latest tweets. The main purpose of its creation was to monitor accounts associated with Web3 technologies. It's dedicated for Windows users due to use of winotify library as notify popups.
 ## Configuration
 File accounts.txt contains a sample configuration for the NASA account. In order to configure your accounts you have to edit file. You will see five sections in it:
 - [`SYMBOL`] Account short name.
