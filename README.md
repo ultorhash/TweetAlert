@@ -14,7 +14,7 @@ File accounts.txt contains a sample configuration for the NASA account. In order
 
 Each account settings must be separated by `|` sign. Below you can find and example setup pattern for the account. For multiple account add them one by one in new lines. Also remember to leave empty line between column names and first account on the list.
 
-[`FULL CONFIGRATION LINE IN FILE`]
+[`FULL CONFIGURATION LINE IN FILE`]
 
 Your_symbol | Account_name | 3min | 1min | keyword1,keyword2,keyword3
 
